@@ -5,9 +5,9 @@
 ### Pre-built (recommended for most people)
 1. Download the latest release ZIP
 2. Unzip anywhere (no admin rights needed)
-3. Run `your-engine.exe`
+3. Run `CEngine.exe`
 
-Works on any AMD GPU with a recent Adrenalin driver (RX 7600 and newer are perfect).  
+Works on any AMD GPU with a recent Adrenalin driver.  
 NVIDIA users: see "Building from source" below.
 
 ### Building from source (developers)
